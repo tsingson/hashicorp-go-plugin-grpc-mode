@@ -1,0 +1,1 @@
+# hashicorp-go-plugin-grpc-mode
